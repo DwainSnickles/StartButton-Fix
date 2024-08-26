@@ -1,7 +1,8 @@
 # StartButton Fix
 
-Just Download the file if desired 
-https://github.com/DwainSnickles/StartButton-Fix/blob/master/StartButton%20Fix.zip
+If you have any suggestions for Free Controls with source code that you think is usefull and should be added to the list email me Send Email
+
+[Donations Appreciated To Help Keep this project going]: [https://www.paypal.com/donate/?hosted_button_id=AG9C7PHHDWEXC)
 
 I made a windows forms app to do this for you if you want to automate the process.
 
