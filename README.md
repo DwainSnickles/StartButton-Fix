@@ -49,3 +49,6 @@ To return the windows button back to center reselect center from dropdown menu a
 Good luck enjoy the windows start button working again.
 
 Feel free reply if you need more information.
+
+[Donations Appreciated To Help Keep this project going]: [https://www.paypal.com/donate/?hosted_button_id=AG9C7PHHDWEXC)
+
