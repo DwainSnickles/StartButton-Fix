@@ -51,3 +51,4 @@ Feel free reply if you need more information.
 
 [Donations Appreciated To Help Keep this project going]: [https://www.paypal.com/donate/?hosted_button_id=AG9C7PHHDWEXC)
 
+<mark><b> [Donations Appreciated via Ko-fi]: [https://ko-fi.com/dwainhsnickles) </b></mark>
